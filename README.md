@@ -79,7 +79,7 @@
 
 <br clear="both" />
 
-<img src="https://raw.githubusercontent.com/Vishwathma2004/Vishwathma2004/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
