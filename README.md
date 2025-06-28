@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vishwathma N, and I'm a Pre-Final Year Computer Science Engineering student from St Joseph Engineering College, Mangaluru.</h2>
+<h2 align="left">Hi 👋! My name is Vishwathma N, and I'm a Final Year Computer Science Engineering student from St Joseph Engineering College, Mangaluru.</h2>
 
 ###
 
